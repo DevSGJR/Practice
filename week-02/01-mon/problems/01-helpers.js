@@ -42,8 +42,6 @@ function checkExists(str, myIncludes) {
 
 
 
-// Batman is the goat
-
 
 
 
