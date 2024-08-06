@@ -32,13 +32,17 @@ function checkExists(str, myIncludes) {
 // `myIncludes` is the name of the function I am calling. It is a helper function already defined in my code.
 // An arguement is a value I pass to a function when I call it. A string arguement is specifically a piece of text data I give to the function.
 
+// *Putting it all together*
+
+// Invoke `myIncludes`: Call (or execute) the `myIncludes` function.
+// Since there is a provided string arguement, use this by passing the string that was given into the `myIncludes` function.
+// "Pass a string" means to give a piece of text to a function so that the function can use it.
 
 
 
 
 
-
-
+// Batman is the goat
 
 
 
